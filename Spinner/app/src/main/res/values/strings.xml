@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+    <string-array name="options">
+        <item>Select</item>
+        <item>CSE</item>
+        <item>IST</item>
+        <item>CAI</item>
+        <item>CSD</item>
+    </string-array>
+
+    <string-array name="elective">
+        <item>Select</item>
+        <item>Blockchain</item>
+        <item>IoT</item>
+        <item>MAD</item>
+        <item>Ethical Hacking</item>
+    </string-array>
+</resources>
