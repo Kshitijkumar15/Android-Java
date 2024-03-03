@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cake order</string>
+    <string-array name="flavours">
+        <item>Select Flavour</item>
+        <item>Chocolate</item>
+        <item>White Forest</item>
+        <item>Butter Scotch</item>
+    </string-array>
+</resources>
